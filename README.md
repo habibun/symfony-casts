@@ -57,3 +57,5 @@
 [sc-contributing]: https://symfonycasts.com/screencast/contributing
 [contributing]: https://github.com/habibun/symfony-casts/tree/contributing
 
+[//]: # (Note about initial commit)
+[//]: # (replica course code of finish directory)
