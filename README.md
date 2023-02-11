@@ -5,7 +5,7 @@
 ## Overview
 | Course                                               | Symfony Version | PHP Version |
 |------------------------------------------------------|-----------------|-------------|
-| [Harmonious Development with Symfony 6][sc-symfony6] | `^0.0`          | `^0.0`      |
+| [Harmonious Development with Symfony 6][sc-symfony6] | `^6.0`          | `^8.0`      |
 
 [//]: # (| [Charming Development in Symfony 5][sc-symfony-5]            | `^0.0`          | `^0.0`      |)
 [//]: # (| [Webpack Encore: Frontend like a Pro!][sc-webpack-encore]    | `^0.0`          | `^0.0`      |)
