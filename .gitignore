@@ -13,3 +13,7 @@
 .phpunit
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+
+###> miscellaneous ###
+/.idea
+###< miscellaneous ###
