@@ -31,9 +31,9 @@
 
 
 ## Developer Tools  
-[PHP Namespaces in Under 5 Minutes][sc-php-namespaces] => [`php-namespaces`][php-namespaces]  
-[Wonderful World of Composer][sc-composer] => [`composer`][composer]
 [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] => [`phpstorm`][phpstorm]  
+[PHP Namespaces in Under 5 Minutes][sc-php-namespaces] => [`php-namespaces`][php-namespaces]  
+[Wonderful World of Composer][sc-composer] => [`composer`][composer]  
 
 
 [//]: # ([Contributing back to Symfony!][sc-contributing] => [`contributing`][contributing])
