@@ -769,7 +769,7 @@
             ],
             "authors": [
                 {
-                    "name": "Fran\u00e7ois Zaninotto"
+                    "name": "François Zaninotto"
                 }
             ],
             "description": "Faker is a PHP library that generates fake data for you.",
@@ -782,36 +782,41 @@
         },
         {
             "name": "hautelook/alice-bundle",
-            "version": "0.1.5",
-            "target-dir": "Hautelook/AliceBundle",
+            "version": "0.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/hautelook/AliceBundle.git",
-                "reference": "912ca5351cd26e283255d53d7d29d247cbc32ea9"
+                "url": "https://github.com/theofidry/AliceBundle.git",
+                "reference": "44824200e88cdec9b9f8ee5056c4a197299e5293"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hautelook/AliceBundle/zipball/912ca5351cd26e283255d53d7d29d247cbc32ea9",
-                "reference": "912ca5351cd26e283255d53d7d29d247cbc32ea9",
+                "url": "https://api.github.com/repos/theofidry/AliceBundle/zipball/44824200e88cdec9b9f8ee5056c4a197299e5293",
+                "reference": "44824200e88cdec9b9f8ee5056c4a197299e5293",
                 "shasum": ""
             },
             "require": {
                 "doctrine/doctrine-bundle": "~1.2",
                 "doctrine/doctrine-fixtures-bundle": "~2.2",
-                "nelmio/alice": "~1.6",
+                "nelmio/alice": "~1.7",
                 "php": ">=5.3.0"
             },
             "require-dev": {
                 "doctrine/orm": "~2.4",
+                "hautelook/solarium-fixtures": "~1.0",
+                "solarium/solarium": "~3.1",
                 "symfony/browser-kit": "~2.1",
                 "symfony/console": "~2.1",
                 "symfony/framework-bundle": "~2.1",
+                "symfony/validator": "~2.1",
                 "symfony/yaml": "~2.1"
+            },
+            "suggest": {
+                "hautelook/solarium-fixtures": "To add Solarium fixtures"
             },
             "type": "symfony-bundle",
             "autoload": {
-                "psr-0": {
-                    "Hautelook\\AliceBundle": ""
+                "psr-4": {
+                    "Hautelook\\AliceBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -831,7 +836,11 @@
                 "alice",
                 "orm"
             ],
-            "time": "2014-03-12T05:18:55+00:00"
+            "support": {
+                "issues": "https://github.com/theofidry/AliceBundle/issues",
+                "source": "https://github.com/theofidry/AliceBundle/tree/0.2"
+            },
+            "time": "2014-10-19T05:10:40+00:00"
         },
         {
             "name": "incenteev/composer-parameter-handler",
@@ -1884,6 +1893,5 @@
         "php": ">=5.3.3"
     },
     "platform-dev": [],
-    "platform-overrides": {},
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.2.0"
 }
