@@ -33,6 +33,10 @@
 [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] => [`phpstorm`][phpstorm]  
 
 
+## Developer Tools  
+[PHP Namespaces in Under 5 Minutes][] => [`php-namespaces`][php-namespaces]
+
+
 [//]: # ([Contributing back to Symfony!][sc-contributing] => [`contributing`][contributing])
 
 
@@ -56,6 +60,9 @@
 
 [sc-phpstorm]: https://symfonycasts.com/screencast/phpstorm
 [phpstorm]: https://github.com/habibun/symfony-casts/tree/phpstorm
+
+[sc-php-namespaces]: https://symfonycasts.com/screencast/php-namespaces
+[php-namespaces]: https://github.com/habibun/symfony-casts/tree/phpstorm
 
 [sc-contributing]: https://symfonycasts.com/screencast/contributing
 [contributing]: https://github.com/habibun/symfony-casts/tree/contributing
