@@ -62,7 +62,7 @@
 [phpstorm]: https://github.com/habibun/symfony-casts/tree/phpstorm
 
 [sc-php-namespaces]: https://symfonycasts.com/screencast/php-namespaces
-[php-namespaces]: https://github.com/habibun/symfony-casts/tree/phpstorm
+[php-namespaces]: https://github.com/habibun/symfony-casts/tree/php-namespaces
 
 [sc-contributing]: https://symfonycasts.com/screencast/contributing
 [contributing]: https://github.com/habibun/symfony-casts/tree/contributing
