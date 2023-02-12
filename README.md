@@ -25,7 +25,7 @@
 
 
 ## Learn Symfony 4
-[Stellar Development with Symfony 4][sc-symfony4] => [symfony4][symfony4]
+[Stellar Development with Symfony 4][sc-symfony4] => [symfony4][symfony4]  
 [Webpack Encore: Frontend like a Pro!][sc-webpack-encore] => [`webpack-encore`][webpack-encore]  
 
 
