@@ -11,7 +11,7 @@
 | [Webpack Encore: Frontend like a Pro!][sc-webpack-encore]    | `^4.2`          | `^7.1`      |
 | [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] | `^2.8`          | `^7.2`      |
 | [PHP Namespaces in Under 5 Minutes][sc-php-namespaces] | `~`          | `^7.2`      |
-| [Wonderful World of Composer][sc-composer] | `~` | `^0.0`
+| [Wonderful World of Composer][sc-composer] | `~` | `~`
 
 
 [//]: # (| [Contributing back to Symfony!][sc-contributing]             | `^0.0`          | `^0.0`      |)
@@ -66,7 +66,7 @@
 [sc-php-namespaces]: https://symfonycasts.com/screencast/php-namespaces
 [php-namespaces]: https://github.com/habibun/symfony-casts/tree/php-namespaces
 
-[sc-composer]: https://symfonycasts.com/screencast/composer/composer
+[sc-composer]: https://symfonycasts.com/screencast/composer
 [composer]: https://github.com/habibun/symfony-casts/tree/composer
 
 [sc-contributing]: https://symfonycasts.com/screencast/contributing
