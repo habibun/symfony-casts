@@ -1,0 +1,3 @@
+registration:
+    flash:
+        user_created: "Welcome! Now let's do some science!"

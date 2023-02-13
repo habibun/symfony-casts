@@ -1,0 +1,11 @@
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
+
+homepage:
+    path: /
+    defaults:
+        _controller: AppBundle:Main:homepage
+
+fos_user:
+    resource: "@FOSUserBundle/Resources/config/routing/all.xml"
