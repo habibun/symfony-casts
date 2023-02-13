@@ -15,7 +15,7 @@
 | [Symfony Best Practices][sc-symfony-best-practices] | `^2.5` | `^5.6` |
 | [Symfony Security Voters (free cookies!)][sc-symfony-voters] | `^2.5` | `^5.6` |
 | [FOSUserBundle FTW!][sc-fosuserbundle] | `^3.3` | `^7.1` |
-| [Contributing back to Symfony!][sc-contributing]             | `^0.0`          | `^0.0`      |
+| [Contributing back to Symfony!][sc-contributing]             | `^4.0`          | `^7.1`      |
 
 
 
@@ -30,6 +30,7 @@
 ## Symfony 4
 [Stellar Development with Symfony 4][sc-symfony4] => [`symfony4`][symfony4]  
 [Webpack Encore: Frontend like a Pro!][sc-webpack-encore] => [`webpack-encore`][webpack-encore]  
+[Contributing back to Symfony!][sc-contributing] => [`contributing`][contributing]  
 
 
 ## Symfony 3
@@ -42,11 +43,9 @@
 [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] => [`phpstorm`][phpstorm]  
 
 
-
 ## Extras 
 [PHP Namespaces in Under 5 Minutes][sc-php-namespaces] => [`php-namespaces`][php-namespaces]  
-[Wonderful World of Composer][sc-composer] => [`composer`][composer]  
-[Contributing back to Symfony!][sc-contributing] => [`contributing`][contributing]  
+[Wonderful World of Composer][sc-composer] => [`composer`][composer]   
 
 
 
