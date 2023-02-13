@@ -33,8 +33,8 @@
 
 
 ## Symfony 2
-[Symfony Best Practices][sc-symfony-best-practices] => [`symfony-best-practices`][symfony-best-practices]
-[Symfony Security Voters (free cookies!)][sc-symfony-voters] => [`symfony-voters`][symfony-voters]
+[Symfony Best Practices][sc-symfony-best-practices] => [`symfony-best-practices`][symfony-best-practices]  
+[Symfony Security Voters (free cookies!)][sc-symfony-voters] => [`symfony-voters`][symfony-voters]  
 
 
 ## Developer Tools  
