@@ -14,6 +14,7 @@
 | [Wonderful World of Composer][sc-composer] | `~` | `~` |
 | [Symfony Best Practices][sc-symfony-best-practices] | `^2.5` | `^5.6` |
 | [Symfony Security Voters (free cookies!)][sc-symfony-voters] | `^2.5` | `^5.6` |
+| [FOSUserBundle FTW!][sc-fosuserbundle] | `^3.3` | `^7.1` |
 
 
 [//]: # (| [Contributing back to Symfony!][sc-contributing]             | `^0.0`          | `^0.0`      |)
@@ -35,10 +36,14 @@
 ## Symfony 2
 [Symfony Best Practices][sc-symfony-best-practices] => [`symfony-best-practices`][symfony-best-practices]  
 [Symfony Security Voters (free cookies!)][sc-symfony-voters] => [`symfony-voters`][symfony-voters]  
-
-
-## Developer Tools  
 [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] => [`phpstorm`][phpstorm]  
+
+
+## Symfony 3
+[FOSUserBundle FTW!][sc-fosuserbundle] => [`fosuserbundle`][fosuserbundle]  
+
+
+## Extras 
 [PHP Namespaces in Under 5 Minutes][sc-php-namespaces] => [`php-namespaces`][php-namespaces]  
 [Wonderful World of Composer][sc-composer] => [`composer`][composer]  
 
@@ -78,6 +83,9 @@
 
 [sc-symfony-voters]: https://symfonycasts.com/screencast/symfony-voters
 [symfony-voters]: https://github.com/habibun/symfony-casts/tree/symfony-voters
+
+[sc-fosuserbundle]: https://symfonycasts.com/screencast/fosuserbundle
+[fosuserbundle]: https://github.com/habibun/symfony-casts/tree/fosuserbundle
 
 [sc-contributing]: https://symfonycasts.com/screencast/contributing
 [contributing]: https://github.com/habibun/symfony-casts/tree/contributing
