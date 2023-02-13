@@ -32,14 +32,15 @@
 [Webpack Encore: Frontend like a Pro!][sc-webpack-encore] => [`webpack-encore`][webpack-encore]  
 
 
+## Symfony 3
+[FOSUserBundle FTW!][sc-fosuserbundle] => [`fosuserbundle`][fosuserbundle]  
+
+
 ## Symfony 2
 [Symfony Best Practices][sc-symfony-best-practices] => [`symfony-best-practices`][symfony-best-practices]  
 [Symfony Security Voters (free cookies!)][sc-symfony-voters] => [`symfony-voters`][symfony-voters]  
 [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] => [`phpstorm`][phpstorm]  
 
-
-## Symfony 3
-[FOSUserBundle FTW!][sc-fosuserbundle] => [`fosuserbundle`][fosuserbundle]  
 
 
 ## Extras 
