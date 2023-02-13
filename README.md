@@ -8,7 +8,7 @@
 | [Harmonious Development with Symfony 6][sc-symfony6] | `^6.0`          | `^8.0`      |
 | [Charming Development in Symfony 5][sc-symfony5]     | `^5.0`          | `^8.0`      |
 | [Stellar Development with Symfony 4][sc-symfony4]           | `^4.0`          | `^7.1`      |
-| [Joyful Development with Symfony 3][sc-symfony3]           | `^0.0`          | `^0.0`      |
+| [Joyful Development with Symfony 3][sc-symfony3]           | `^3.1`          | `^7.1`      |
 | [Webpack Encore: Frontend like a Pro!][sc-webpack-encore]    | `^4.2`          | `^7.1`      |
 | [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] | `^2.8`          | `^7.2`      |
 | [PHP Namespaces in Under 5 Minutes][sc-php-namespaces] | `~`          | `~`      |
