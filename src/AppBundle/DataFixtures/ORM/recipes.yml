@@ -1,0 +1,4 @@
+AppBundle\Entity\DeliciousCookie:
+    cookie{1..10}:
+        flavor:        <randomElement(['Chocolate Chip Cookie', 'Oatmeal Chocolate Cookie', 'Peanut Butter Chocolate Cookie', 'Snickerdoodle', 'Sugar Cookie', 'Ginger Cookie', 'Macaroon'])>
+        bakerUsername: <randomElement(['ryan', 'leanna'])>

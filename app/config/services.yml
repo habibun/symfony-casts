@@ -1,0 +1,6 @@
+services:
+    app_cookie_voter:
+        class: AppBundle\Security\CookieVoter
+        arguments: ["@service_container"]
+        tags:
+            - { name: security.voter }

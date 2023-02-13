@@ -1,0 +1,21 @@
+security:
+    encoders:
+        Symfony\Component\Security\Core\User\User: plaintext
+
+    providers:
+        in_memory:
+            memory:
+                users:
+                    ryan:  { password: cookie, roles: 'ROLE_COOKIE_ENJOYER' }
+                    leanna: { password: cookie, roles: 'ROLE_COOKIE_MONSTER' }
+
+
+    firewalls:
+        default:
+            pattern: ^/
+            anonymous: ~
+            form_login: ~
+            logout: ~
+
+    access_control:
+        - { path: ^/cookies, roles: IS_AUTHENTICATED_FULLY }
