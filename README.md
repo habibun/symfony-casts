@@ -13,6 +13,7 @@
 | [PHP Namespaces in Under 5 Minutes][sc-php-namespaces] | `~`          | `~`      |
 | [Wonderful World of Composer][sc-composer] | `~` | `~` |
 | [Symfony Best Practices][sc-symfony-best-practices] | `^2.5` | `^5.6` |
+| [Symfony Security Voters (free cookies!)][sc-symfony-voters] | `^2.5` | `^5.6` |
 
 
 [//]: # (| [Contributing back to Symfony!][sc-contributing]             | `^0.0`          | `^0.0`      |)
@@ -33,6 +34,7 @@
 
 ## Symfony 2
 [Symfony Best Practices][sc-symfony-best-practices] => [`symfony-best-practices`][symfony-best-practices]
+[Symfony Security Voters (free cookies!)][sc-symfony-voters] => [`symfony-voters`][symfony-voters]
 
 
 ## Developer Tools  
@@ -73,6 +75,9 @@
 
 [sc-symfony-best-practices]: https://symfonycasts.com/screencast/symfony-best-practices
 [symfony-best-practices]: https://github.com/habibun/symfony-casts/tree/symfony-best-practices
+
+[sc-symfony-voters]: https://symfonycasts.com/screencast/symfony-voters
+[symfony-voters]: https://github.com/habibun/symfony-casts/tree/symfony-voters
 
 [sc-contributing]: https://symfonycasts.com/screencast/contributing
 [contributing]: https://github.com/habibun/symfony-casts/tree/contributing
