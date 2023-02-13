@@ -15,9 +15,8 @@
 | [Symfony Best Practices][sc-symfony-best-practices] | `^2.5` | `^5.6` |
 | [Symfony Security Voters (free cookies!)][sc-symfony-voters] | `^2.5` | `^5.6` |
 | [FOSUserBundle FTW!][sc-fosuserbundle] | `^3.3` | `^7.1` |
+| [Contributing back to Symfony!][sc-contributing]             | `^0.0`          | `^0.0`      |
 
-
-[//]: # (| [Contributing back to Symfony!][sc-contributing]             | `^0.0`          | `^0.0`      |)
 
 
 ## Symfony 6
@@ -46,11 +45,7 @@
 ## Extras 
 [PHP Namespaces in Under 5 Minutes][sc-php-namespaces] => [`php-namespaces`][php-namespaces]  
 [Wonderful World of Composer][sc-composer] => [`composer`][composer]  
-
-
-[//]: # ([Contributing back to Symfony!][sc-contributing] => [`contributing`][contributing])
-
-
+[Contributing back to Symfony!][sc-contributing] => [`contributing`][contributing]  
 
 
 
@@ -89,6 +84,8 @@
 
 [sc-contributing]: https://symfonycasts.com/screencast/contributing
 [contributing]: https://github.com/habibun/symfony-casts/tree/contributing
+
+
 
 [//]: # (Note about initial commit)
 [//]: # (replica course code of finish directory)
