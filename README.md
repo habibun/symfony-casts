@@ -8,6 +8,7 @@
 | [Harmonious Development with Symfony 6][sc-symfony6] | `^6.0`          | `^8.0`      |
 | [Charming Development in Symfony 5][sc-symfony5]     | `^5.0`          | `^8.0`      |
 | [Stellar Development with Symfony 4][sc-symfony4]           | `^4.0`          | `^7.1`      |
+| [Joyful Development with Symfony 3][sc-symfony3]           | `^0.0`          | `^0.0`      |
 | [Webpack Encore: Frontend like a Pro!][sc-webpack-encore]    | `^4.2`          | `^7.1`      |
 | [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] | `^2.8`          | `^7.2`      |
 | [PHP Namespaces in Under 5 Minutes][sc-php-namespaces] | `~`          | `~`      |
@@ -35,6 +36,7 @@
 
 ## Symfony 3
 [FOSUserBundle FTW!][sc-fosuserbundle] => [`fosuserbundle`][fosuserbundle]  
+[Joyful Development with Symfony 3][sc-symfony3] => [`symfony3`][symfony3]  
 
 
 ## Symfony 2
@@ -63,6 +65,9 @@
 
 [sc-symfony4]: https://symfonycasts.com/screencast/symfony4
 [symfony4]: https://github.com/habibun/symfony-casts/tree/symfony4
+
+[sc-symfony3]: https://symfonycasts.com/screencast/symfony3
+[symfony3]: https://github.com/habibun/symfony-casts/tree/symfony3
 
 [sc-phpstorm]: https://symfonycasts.com/screencast/phpstorm
 [phpstorm]: https://github.com/habibun/symfony-casts/tree/phpstorm
