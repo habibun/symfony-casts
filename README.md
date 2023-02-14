@@ -105,6 +105,3 @@
 [sc-composer]: https://symfonycasts.com/screencast/composer
 [composer]: https://github.com/habibun/symfony-casts/tree/composer  
 
-
-[//]: # (Note about initial commit)
-[//]: # (replica course code of finish directory)
