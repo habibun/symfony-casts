@@ -1,0 +1,4 @@
+/data/database.sqlite
+/logs/*
+/vendor/*
+/.idea

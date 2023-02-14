@@ -1,0 +1,15 @@
+{
+    "name": "knpuniversity/dependency-injection",
+    "description": "Tutorial for Dependency Injection and the art of services and containers",
+    "require": {
+        "pimple/pimple": "1.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "config": {
+        "platform": {}
+    }
+}
