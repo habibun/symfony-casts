@@ -44,7 +44,7 @@
 [Symfony Security Voters (free cookies!)][sc-symfony-voters] => [`symfony-voters`][symfony-voters]  
 
 
-## Extras 
+## Others 
 [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] => [`phpstorm`][phpstorm]  
 [Dependency Injection and the art of services and containers][sc-dependency-injection] => [`dependency-injection`][dependency-injection]   
 [PHP Namespaces in Under 5 Minutes][sc-php-namespaces] => [`php-namespaces`][php-namespaces]  
@@ -92,7 +92,7 @@
 [symfony-voters]: https://github.com/habibun/symfony-casts/tree/symfony-voters
 
 
-[//]: # (Extras)
+[//]: # (Others)
 [sc-phpstorm]: https://symfonycasts.com/screencast/phpstorm
 [phpstorm]: https://github.com/habibun/symfony-casts/tree/phpstorm
 
