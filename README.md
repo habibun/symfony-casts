@@ -34,7 +34,7 @@ for more details please go to the desired branch and check readme.
 
 
 ## Symfony 6
-[Harmonious Development with Symfony 6][sc-symfony6] => [`symfony6`][symfony6]
+[Harmonious Development with Symfony 6][sc-symfony6] => [```bash symfony6```][symfony6]
 
 
 ## Symfony 5
