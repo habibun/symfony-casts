@@ -36,9 +36,7 @@ composer install
 for more details please go to the desired branch and check readme.
 
 
-## Courses
-
----
+## Courses  
 #### Symfony 6
 [Harmonious Development with Symfony 6][sc-symfony6] => [`symfony6`][symfony6]
 
