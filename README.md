@@ -1,8 +1,8 @@
 ## About The Project
 [SymfonyCasts][symfonycasts] Free Courses  
 </br>  
-In this repository, every branch holds a separate example project except the main branch.  
-Please check the [courses](#courses) section for more details.
+Each branch of this repository contains source code for an individual course, except for the main branch.
+For more information, please see the [courses](#courses) section.
 
 
 ## Overview
@@ -33,7 +33,7 @@ git checkout desired_branch
 git pull origin desired_branch
 composer install
 ```
-for more details please go to the desired branch and check readme.
+You can find more information in the readme file of the desired branch.
 
 
 ## Courses  
