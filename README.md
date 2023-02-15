@@ -38,31 +38,31 @@ for more details please go to the desired branch and check readme.
 
 ## Courses  
 
-#### Symfony 6
+### Symfony 6
 [Harmonious Development with Symfony 6][sc-symfony6] => [`symfony6`][symfony6]
 
 #
-#### Symfony 5
+### Symfony 5
 [Charming Development in Symfony 5][sc-symfony5] => [`symfony5`][symfony5] 
 
----
-#### Symfony 4
+#
+### Symfony 4
 [Stellar Development with Symfony 4][sc-symfony4] => [`symfony4`][symfony4]  
 [Webpack Encore: Frontend like a Pro!][sc-webpack-encore] => [`webpack-encore`][webpack-encore]  
 [Contributing back to Symfony!][sc-contributing] => [`contributing`][contributing]  
 
----
-#### Symfony 3
+#
+### Symfony 3
 [Joyful Development with Symfony 3][sc-symfony3] => [`symfony3`][symfony3]  
 [FOSUserBundle FTW!][sc-fosuserbundle] => [`fosuserbundle`][fosuserbundle]  
 
----
-#### Symfony 2
+#
+### Symfony 2
 [Symfony Best Practices][sc-symfony-best-practices] => [`symfony-best-practices`][symfony-best-practices]  
 [Symfony Security Voters (free cookies!)][sc-symfony-voters] => [`symfony-voters`][symfony-voters]  
 
----
-#### Others 
+#
+### Others 
 [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] => [`phpstorm`][phpstorm]  
 [Dependency Injection and the art of services and containers][sc-dependency-injection] => [`dependency-injection`][dependency-injection]   
 [PHP Namespaces in Under 5 Minutes][sc-php-namespaces] => [`php-namespaces`][php-namespaces]  
