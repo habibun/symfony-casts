@@ -37,10 +37,11 @@ for more details please go to the desired branch and check readme.
 
 
 ## Courses  
+
 #### Symfony 6
 [Harmonious Development with Symfony 6][sc-symfony6] => [`symfony6`][symfony6]
 
----
+#
 #### Symfony 5
 [Charming Development in Symfony 5][sc-symfony5] => [`symfony5`][symfony5] 
 
