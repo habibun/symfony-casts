@@ -1,7 +1,6 @@
 ## About The Project
 [SymfonyCasts][symfonycasts] Free Courses  
 
-</br>
 Each branch of this repository contains source code for an individual course, except for the main branch.
 For more information, please see the [courses](#courses) section.
 
