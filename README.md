@@ -3,21 +3,34 @@
 
 
 ## Overview
-| Course                                                                                 | Symfony Version | PHP Version |
-|----------------------------------------------------------------------------------------|-----------------|-------------|
-| [Harmonious Development with Symfony 6][sc-symfony6]                                   | `^6.0`          | `^8.0`      |
-| [Charming Development in Symfony 5][sc-symfony5]                                       | `^5.0`          | `^8.0`      |
-| [Stellar Development with Symfony 4][sc-symfony4]                                      | `^4.0`          | `^7.1`      |
-| [Webpack Encore: Frontend like a Pro!][sc-webpack-encore]                              | `^4.2`          | `^7.1`      |
-| [Contributing back to Symfony!][sc-contributing]                                       | `^4.0`          | `^7.1`      |
-| [Joyful Development with Symfony 3][sc-symfony3]                                       | `^3.1`          | `^7.1`      |
-| [FOSUserBundle FTW!][sc-fosuserbundle]                                                 | `^3.3`          | `^7.1`      |
-| [Symfony Best Practices][sc-symfony-best-practices]                                    | `^2.5`          | `^5.6`      |
-| [Symfony Security Voters (free cookies!)][sc-symfony-voters]                           | `^2.5`          | `^5.6`      |
-| [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm]                   | `^2.8`          | `^7.2`      |
-| [Dependency Injection and the art of services and containers][sc-dependency-injection] | `~`             | `~`         |
-| [PHP Namespaces in Under 5 Minutes][sc-php-namespaces]                                 | `~`             | `~`         |
-| [Wonderful World of Composer][sc-composer]                                             | `~`             | `~`         |
+| Course                                                                                 | Branch                   | Symfony Version | PHP Version |
+|----------------------------------------------------------------------------------------|--------------------------|-----------------|-------------|
+| [Harmonious Development with Symfony 6][sc-symfony6]                                   | `symfony6`               | `^6.0`          | `^8.0`      |
+| [Charming Development in Symfony 5][sc-symfony5]                                       | `symfony5`               | `^5.0`          | `^8.0`      |
+| [Stellar Development with Symfony 4][sc-symfony4]                                      | `symfony4`               | `^4.0`          | `^7.1`      |
+| [Webpack Encore: Frontend like a Pro!][sc-webpack-encore]                              | `webpack-encore`         | `^4.2`          | `^7.1`      |
+| [Contributing back to Symfony!][sc-contributing]                                       | `contributing`           | `^4.0`          | `^7.1`      |
+| [Joyful Development with Symfony 3][sc-symfony3]                                       | `symfony3`               | `^3.1`          | `^7.1`      |
+| [FOSUserBundle FTW!][sc-fosuserbundle]                                                 | `fosuserbundle`          | `^3.3`          | `^7.1`      |
+| [Symfony Best Practices][sc-symfony-best-practices]                                    | `symfony-best-practices` | `^2.5`          | `^5.6`      |
+| [Symfony Security Voters (free cookies!)][sc-symfony-voters]                           | `symfony-voters`         | `^2.5`          | `^5.6`      |
+| [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm]                   | `phpstorm`               | `^2.8`          | `^7.2`      |
+| [Dependency Injection and the art of services and containers][sc-dependency-injection] | `dependency-injection`   | `~`             | `~`         |
+| [PHP Namespaces in Under 5 Minutes][sc-php-namespaces]                                 | `php-namespaces`         | `~`             | `~`         |
+| [Wonderful World of Composer][sc-composer]                                             | `composer`               | `~`             | `~`         |
+
+
+<br/>
+
+#### Installation
+```bash
+git clone git@github.com:habibun/symfony-casts.git
+cd symfony-casts
+git checkout desired_branch
+git pull origin desired_branch
+composer install
+```
+for more details please go to the desired branch and check readme.
 
 
 ## Symfony 6
