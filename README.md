@@ -1,26 +1,36 @@
 ## About The Project
 [SymfonyCasts][symfonycasts] Free Courses  
 
-Each branch of this repository contains source code for an individual course, except for the main branch.  
-For more information, please see the [courses](#courses) section.
-
+The repository has different branches that contain course code for each individual course, with the exception of the main branch.  
+For more information, please see the [overview](#overview) section.  
 
 ## Overview
-| Course                                                                                 | Branch                   | Symfony Version | PHP Version |
-|----------------------------------------------------------------------------------------|--------------------------|-----------------|-------------|
-| [Harmonious Development with Symfony 6][sc-symfony6]                                   | `symfony6`               | `^6.0`          | `^8.0`      |
-| [Charming Development in Symfony 5][sc-symfony5]                                       | `symfony5`               | `^5.0`          | `^8.0`      |
-| [Stellar Development with Symfony 4][sc-symfony4]                                      | `symfony4`               | `^4.0`          | `^7.1`      |
-| [Webpack Encore: Frontend like a Pro!][sc-webpack-encore]                              | `webpack-encore`         | `^4.2`          | `^7.1`      |
-| [Contributing back to Symfony!][sc-contributing]                                       | `contributing`           | `^4.0`          | `^7.1`      |
-| [Joyful Development with Symfony 3][sc-symfony3]                                       | `symfony3`               | `^3.1`          | `^7.1`      |
-| [FOSUserBundle FTW!][sc-fosuserbundle]                                                 | `fosuserbundle`          | `^3.3`          | `^7.1`      |
-| [Symfony Best Practices][sc-symfony-best-practices]                                    | `symfony-best-practices` | `^2.5`          | `^5.6`      |
-| [Symfony Security Voters (free cookies!)][sc-symfony-voters]                           | `symfony-voters`         | `^2.5`          | `^5.6`      |
-| [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm]                   | `phpstorm`               | `^2.8`          | `^7.2`      |
-| [Dependency Injection and the art of services and containers][sc-dependency-injection] | `dependency-injection`   | `~`             | `~`         |
-| [PHP Namespaces in Under 5 Minutes][sc-php-namespaces]                                 | `php-namespaces`         | `~`             | `~`         |
-| [Wonderful World of Composer][sc-composer]                                             | `composer`               | `~`             | `~`         |
+| Course                                                                                 | Branch                                             | Symfony Version | PHP Version |
+|----------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|-------------|
+| **Symfony 6**                                                                          |                                                    |                 |             |
+| [Harmonious Development with Symfony 6][sc-symfony6]                                   | [`symfony6`][symfony6]                             | `^6.0`          | `^8.0`      |
+|                                                                                        |                                                    |                 |             |
+| **Symfony 5**                                                                          |                                                    |                 |             |
+| [Charming Development in Symfony 5][sc-symfony5]                                       | [`symfony5`][symfony5]                             | `^5.0`          | `^8.0`      |
+|                                                                                        |                                                    |                 |             |
+| **Symfony 4**                                                                          |                                                    |                 |             |
+| [Stellar Development with Symfony 4][sc-symfony4]                                      | [`symfony4`][symfony4]                             | `^4.0`          | `^7.1`      |
+| [Webpack Encore: Frontend like a Pro!][sc-webpack-encore]                              | [`webpack-encore`][webpack-encore]                 | `^4.2`          | `^7.1`      |
+| [Contributing back to Symfony!][sc-contributing]                                       | [`contributing`][contributing]                     | `^4.0`          | `^7.1`      |
+|                                                                                        |                                                    |                 |             |
+| **Symfony 3**                                                                          |                                                    |                 |             |
+| [Joyful Development with Symfony 3][sc-symfony3]                                       | [`symfony3`][symfony3]                             | `^3.1`          | `^7.1`      |
+| [FOSUserBundle FTW!][sc-fosuserbundle]                                                 | [`fosuserbundle`][fosuserbundle]                   | `^3.3`          | `^7.1`      |
+|                                                                                        |                                                    |                 |             |
+| **Symfony 2**                                                                          |                                                    |                 |             |
+| [Symfony Best Practices][sc-symfony-best-practices]                                    | [`symfony-best-practices`][symfony-best-practices] | `^2.5`          | `^5.6`      |
+| [Symfony Security Voters (free cookies!)][sc-symfony-voters]                           | [`symfony-voters`][symfony-voters]                 | `^2.5`          | `^5.6`      |
+| [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm]                   | [`phpstorm`][phpstorm]                             | `^2.8`          | `^7.2`      |
+|                                                                                        |                                                    |                 |             |
+| **Others**                                                                             |                                                    |                 |             |
+| [Dependency Injection and the art of services and containers][sc-dependency-injection] | [`dependency-injection`][dependency-injection]     | `~`             | `~`         |
+| [PHP Namespaces in Under 5 Minutes][sc-php-namespaces]                                 | [`php-namespaces`][php-namespaces]                 | `~`             | `~`         |
+| [Wonderful World of Composer][sc-composer]                                             | [`composer`][composer]                             | `~`             | `~`         |
 
 
 <br/>
@@ -36,37 +46,6 @@ composer install
 You can find more information in the readme file of the desired branch.
 
 
-## Courses  
-
-### Symfony 6
-[Harmonious Development with Symfony 6][sc-symfony6] => [`Code`][symfony6]
-
-#
-### Symfony 5
-[Charming Development in Symfony 5][sc-symfony5] => [`Code`][symfony5] 
-
-#
-### Symfony 4
-[Stellar Development with Symfony 4][sc-symfony4] => [`Code`][symfony4]  
-[Webpack Encore: Frontend like a Pro!][sc-webpack-encore] => [`Code`][webpack-encore]  
-[Contributing back to Symfony!][sc-contributing] => [`Code`][contributing]  
-
-#
-### Symfony 3
-[Joyful Development with Symfony 3][sc-symfony3] => [`Code`][symfony3]  
-[FOSUserBundle FTW!][sc-fosuserbundle] => [`Code`][fosuserbundle]  
-
-#
-### Symfony 2
-[Symfony Best Practices][sc-symfony-best-practices] => [`Code`][symfony-best-practices]  
-[Symfony Security Voters (free cookies!)][sc-symfony-voters] => [`Code`][symfony-voters]  
-
-#
-### Others 
-[Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc-phpstorm] => [`Code`][phpstorm]  
-[Dependency Injection and the art of services and containers][sc-dependency-injection] => [`Code`][dependency-injection]   
-[PHP Namespaces in Under 5 Minutes][sc-php-namespaces] => [`Code`][php-namespaces]  
-[Wonderful World of Composer][sc-composer] => [`Code`][composer]   
 
 
 [//]: # (Links)
