@@ -1,8 +1,8 @@
 ## About The Project
 [SymfonyCasts][symfonycasts] Free Courses  
 
-The repository has different branches that contain course code for each individual course, with the exception of the main branch.  
-For more information, please see the [overview](#overview) section.  
+This repository has different branches that contain course codes for each course, except the main branch.  
+For more information, please see the [overview](#overview) section.
 
 ## Overview
 | Course                                                                                 | Branch                                             | Symfony Version | PHP Version |
